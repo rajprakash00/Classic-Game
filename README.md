@@ -2,8 +2,10 @@
 ## A multiplayer tic-tac-toe game
 
 This is the most famous and simple tic-tac-toe game.
+
 I am sure you all have already played it!!
-Don't worry if you don't know this then have a look:-
+
+Don't worry if you don't know this ,you can have a look at this:-
 
 ![index](https://user-images.githubusercontent.com/42652941/50417765-1a1b9f80-084e-11e9-81ca-f79b77b2589c.png)
 
